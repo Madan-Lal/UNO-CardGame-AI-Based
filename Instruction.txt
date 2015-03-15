@@ -1,0 +1,19 @@
+1=Red color
+2=Green color
+3=Blue color 
+4=Yellow color
+
+Section A:
+Cards have length either 3 or 4.
+if length is 3 
+example 123
+means 
+1 is for card's digit 
+2 is for color of the card
+3 is for copy of the card, which can be either 1 or two
+
+ 
+
+For User
+
+~Please wait for 3 seconds after your turn, as other player can play their turn, 1-second each.
